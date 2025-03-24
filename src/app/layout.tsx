@@ -7,6 +7,7 @@ import { cn } from "@/lib/utils";
 import type { Metadata } from "next";
 import "./globals.css";
 
+/* eslint-disable @typescript-eslint/no-unused-vars */
 const META_THEME_COLORS = {
   light: "#ffffff",
   dark: "#09090b",
